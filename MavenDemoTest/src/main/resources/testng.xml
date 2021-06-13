@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="HalfEbayTest Test Automation suite">
+
+
+<listeners>
+	<listener class-name = "com.qa.ExtentReportListener.ExtentReportListener" />
+</listeners>
+
+
+
+<test name="HalfEbayTest parameter Feature Test">
+	
+	<parameter name="Url" value="http://www.google.com" />
+	<parameter name="emailId" value="test@1234" />
+	
+	<classes>
+		<class name="com.test.HalfEbayTest" />
+		<class name="com.test.HalfEbayTest2" />
+	</classes>
+	
+</test>
+</suite>

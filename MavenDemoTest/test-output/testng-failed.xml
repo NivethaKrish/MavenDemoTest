@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HalfEbayTest Test Automation suite]">
+  <parameter name="emailId" value="test@1234"/>
+  <parameter name="Url" value="http://www.google.com"/>
+  <test name="HalfEbayTest parameter Feature Test(failed)">
+    <parameter name="emailId" value="test@1234"/>
+    <parameter name="Url" value="http://www.google.com"/>
+    <classes>
+      <class name="com.test.HalfEbayTest2">
+        <methods>
+          <include name="mailLinkTest"/>
+          <include name="tearDown"/>
+          <include name="logoLinkTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.HalfEbayTest2 -->
+    </classes>
+  </test> <!-- HalfEbayTest parameter Feature Test(failed) -->
+</suite> <!-- Failed suite [HalfEbayTest Test Automation suite] -->

@@ -1,0 +1,24 @@
+2021-06-01 23:12:27,767  INFO [main] GenrateLogs:16 - Browser launched
+2021-06-01 23:12:29,640  INFO [main] GenrateLogs:19 - Url Loaded
+2021-06-01 23:12:29,640  WARN [main] GenrateLogs:20 - Warning
+2021-06-01 23:12:29,642 FATAL [main] GenrateLogs:21 - Fatal message
+2021-06-01 23:12:29,642 DEBUG [main] GenrateLogs:22 - debug
+2021-06-01 23:12:29,650  INFO [main] GenrateLogs:29 - Correct
+2021-06-01 23:12:30,361  INFO [main] GenrateLogs:39 - Browser closed
+2021-06-01 23:17:03,968  INFO [main] GenrateLogs:16 - Browser launched
+2021-06-01 23:17:06,055  INFO [main] GenrateLogs:19 - Url Loaded
+2021-06-01 23:17:06,063  WARN [main] GenrateLogs:20 - Warning
+2021-06-01 23:17:06,065 FATAL [main] GenrateLogs:21 - Fatal message
+2021-06-01 23:17:06,066 DEBUG [main] GenrateLogs:22 - debug
+2021-06-01 23:17:06,080  INFO [main] GenrateLogs:29 - Correct
+2021-06-01 23:17:06,858  INFO [main] GenrateLogs:39 - Browser closed
+2021-06-01 23:53:18,563 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-01 23:53:18,602 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-06-01 23:53:18,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-06-01 23:53:18,606 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-06-01 23:53:18,607 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Nivetha%20Deivendran/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-06-01 23:53:18,990 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-01 23:53:18,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-06-01 23:53:18,991 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-06-01 23:53:18,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-06-01 23:53:18,992 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Nivetha%20Deivendran/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
